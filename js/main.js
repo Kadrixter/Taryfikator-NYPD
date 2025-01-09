@@ -472,7 +472,7 @@ $(document).ready(function() {
 		});
 		i = i+1;
 	});
-	$("body").append('<div class="footer"><p>Copyright 2025 © by white1225 and Kadrixter</p></div>');
+	$("body").append('<div class="footer"><p>Copyright 2025 © by Kadrixter and white1225</p></div>');
 
     // tablice przechowująca zaznaczone wartości
 	var arrayDodatkowe = [];
